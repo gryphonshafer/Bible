@@ -14,7 +14,6 @@ The following is a simplified key for content markup:
     [...]    --> footnotes
     <...>    --> red text
     ^...^    --> italic
-    2 spaces --> indent (line by line)
     4 spaces --> block-quote (line by line)
     6 spaces --> block-quote + indent (line by line)
     |*|      --> notes the beginning of a verse (numbers ignored)
