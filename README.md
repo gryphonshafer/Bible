@@ -40,7 +40,7 @@ The following is a simplified key for content markup:
     =...=    --> header
     {...}    --> cross-references
     [...]    --> footnotes
-    <...>    --> red text
+    *...*    --> red text
     ^...^    --> italic
     4 spaces --> block-quote (line by line)
     6 spaces --> block-quote + indent (line by line)
