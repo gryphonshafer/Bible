@@ -50,8 +50,8 @@ The following is a simplified key for content markup:
 Quotes (single and double) are stored in the file as "normal" quotes (i.e. not
 "smart" quotes).
 
-## Learning More and Participating ##
+## Learning More ##
 
-If you are interested in learning more and potentially participating in the
-work of this project, please read through
+If you are interested in learning more about the work of this project,
+please read through
 [the project's wiki articles](https://github.com/gryphonshafer/Bible/wiki).
